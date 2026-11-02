@@ -1,0 +1,22 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+pyvenv.cfg
+
+# Local working folder: virtualenv, editor config and a database dump
+StayZEN PROJECT/
+
+# Editor and OS
+.claude/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
+.DS_Store
